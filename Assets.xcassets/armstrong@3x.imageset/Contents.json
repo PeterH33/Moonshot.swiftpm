@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "armstrong@3x.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
