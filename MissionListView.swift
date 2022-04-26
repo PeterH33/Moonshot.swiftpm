@@ -29,7 +29,7 @@ struct MissionListView: View {
                                 .resizable()
                                 .scaledToFit()
                                 .frame(width: 100, height: 100)
-                            
+                                .accessibilityHidden(true)
                             
                             HStack {
                                 Text(mission.displayName)

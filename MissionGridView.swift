@@ -32,6 +32,7 @@ struct MissionGridView: View {
                                 .scaledToFit()
                                 .frame(width: 100, height: 100)
                                 .padding()
+                                .accessibilityHidden(true)
                             //TODO this formatting needs corection to maintain aspect ratios better, appolo 14 looks odd, and the spacings are kinda inconsistent between the images of the badges
                             
                             VStack {
