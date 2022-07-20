@@ -33,7 +33,7 @@ struct MissionGridView: View {
                                 .frame(width: 100, height: 100)
                                 .padding()
                                 .accessibilityHidden(true)
-                            //TODO this formatting needs corection to maintain aspect ratios better, appolo 14 looks odd, and the spacings are kinda inconsistent between the images of the badges
+                            //TODO this formatting needs correction to maintain aspect ratios better, Apollo 14 looks odd, and the spacings are kinda inconsistent between the images of the badges
                             
                             VStack {
                                 Text(mission.displayName)

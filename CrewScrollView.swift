@@ -1,6 +1,6 @@
 import SwiftUI
 
-//The extraction of this bit of code to another view was insightful, but I know that I have duplicate code that is unnessisary in here. 
+//The extraction of this bit of code to another view was insightful, but I know that I have duplicate code that is unnecessary in here.
 struct CrewScrollView: View {
     let mission: Mission
     
@@ -55,6 +55,6 @@ struct CrewScrollView: View {
                     }
                 }
             }
-        }//endscroll view crew
+        }//end scroll view crew
     }
 }
